@@ -1,0 +1,1 @@
+### use this document to outline the electronics of the project

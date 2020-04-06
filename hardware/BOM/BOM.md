@@ -1,0 +1,1 @@
+### use this document to outline the BOM of the hardware used in the project
